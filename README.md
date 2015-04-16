@@ -1,2 +1,2 @@
 # poc-inactive-browser
-A Simple rustic jquery example of inactive listener and recountdown timer.
+A simple and rustic example of jquery to inactive listener and recountdown timer.
