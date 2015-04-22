@@ -4,7 +4,7 @@ $(function() {
         }, 10000);
     });
 
-$(document).on('mousemove', function() {
+$(document).on('mousemove keydown', function() {
         if (timeout !== null) { 
             clearTimeout(timeout);
         }
